@@ -28,7 +28,7 @@ try to write my own projects that way.
 
 ## 🛠️ Projects
 
-### ⚡ Electronics
+### 🖥️ Electronics
 
 #### Lab Power Supplies (M.V.L.R Series)
 | Version | Description | Status |
@@ -48,7 +48,7 @@ try to write my own projects that way.
 
 ---
 
-## 🗣️ Languages
+## 🌎 Languages
 - Spanish 🇨🇱 Native
 - English 🇺🇸 Intermediate
 - French 🇫🇷🇧🇪 Basic, learning
