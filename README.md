@@ -26,7 +26,7 @@ designs, feel free to use anything.
 #### Lab Power Supplies (M.V.L.R Series)
 | Version | Description | Status |
 |---------|-------------|--------|
-| [V1 - Transformer](link) | Linear regulated PSU 12V 1A with full ripple calculations and design documentation | 🔧 In progress  |
+| [V1 - Transformer](https://github.com/Gaby087/MVLR-V1-Transformer) | Linear regulated PSU 12V 1A with full ripple calculations and design documentation | 🔧 In progress  |
 | V2 - Digital Hybrid | Commercial switching PSU + digital voltage selection | 🔧 In progress |
 | V3 - ATX Recycled | Repurposed PC PSU as lab bench supply | 🔧 In progress |
 
