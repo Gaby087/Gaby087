@@ -1,12 +1,18 @@
 # Gaby’s GitHub
 
-Hi I'm gabriel an electronics engineering student and this is a 
+Hi I'm Gabriel, an electronics engineering student and this is a
 GitHub I'll use to upload all my personal projects 
 and as a presentation of myself related to electronics, 
 coding and some Linux stuff. If this GitHub results 
 useful for someone looking for schematics or PCB 
 designs, feel free to use anything.
 
+One of the main goals here is to keep everything 
+well documented, including the calculations, design 
+choices and reasoning behind each project. I find it 
+genuinely useful when documentation goes beyond the 
+final result and shows how things were built, so I 
+try to write my own projects that way.
 ---
 
 ## 🔬 Interests
