@@ -13,6 +13,7 @@ choices and reasoning behind each project. I find it
 genuinely useful when documentation goes beyond the 
 final result and shows how things were built, so I 
 try to write my own projects that way.
+
 ---
 
 ## 🔬 Interests
