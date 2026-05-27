@@ -1,16 +1,48 @@
-## Hi there 👋
+# Gaby’s GitHub
 
-<!--
-**Gaby087/Gaby087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm gabriel an electronics engineering student and this is a 
+GitHub I'll use to upload all my personal projects 
+and as a presentation of myself related to electronics, 
+coding and some Linux stuff. If this GitHub results 
+useful for someone looking for schematics or PCB 
+designs, feel free to use anything.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Interests
+- Analog/Mixed-Signal IC Design
+- Digital Electronics 
+- PCB Design (KiCad, Altium)
+- Semiconductors & Sensors
+- Quantum Computing
+- Audio Electronics
+
+---
+
+## 🛠️ Projects
+
+### ⚡ Electronics
+
+#### Lab Power Supplies (M.V.L.R Series)
+| Version | Description | Status |
+|---------|-------------|--------|
+| [V1 - Transformer](link) | Linear regulated PSU 12V 1A with full ripple calculations and design documentation | 🔧 In progress  |
+| V2 - Digital Hybrid | Commercial switching PSU + digital voltage selection | 🔧 In progress |
+| V3 - ATX Recycled | Repurposed PC PSU as lab bench supply | 🔧 In progress |
+
+#### Other
+- Ultrasonic water level sensor
+
+---
+
+## 🌱 Currently Learning
+- KiCad & PCB design rules
+- Quantum Mechanics
+
+---
+
+## 🗣️ Languages
+- Spanish 🇨🇱 Native
+- English 🇺🇸 Intermediate
+- French 🇫🇷🇧🇪 Basic, learning
+- German 🇩🇪🇨🇭 Planned
