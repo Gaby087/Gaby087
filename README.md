@@ -30,7 +30,7 @@ try to write my own projects that way.
 
 ### 🖥️ Electronics
 
-#### Lab Power Supplies (M.V.L.R Series)
+#### Adjustable Lab Power Supply(ALPS Series)
 | Version | Description | Status |
 |---------|-------------|--------|
 | [V1 - Transformer](https://github.com/Gaby087/MVLR-V1-Transformer) | Linear regulated PSU 12V 1A with full ripple calculations and design documentation | 🔧 In progress  |
