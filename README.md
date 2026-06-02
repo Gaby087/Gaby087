@@ -33,7 +33,7 @@ try to write my own projects that way.
 #### Adjustable Lab Power Supply(ALPS Series)
 | Version | Description | Status |
 |---------|-------------|--------|
-| [V1 - Transformer](https://github.com/Gaby087/MVLR-V1-Transformer) | Linear regulated PSU 12V 1A with full ripple calculations and design documentation | 🔧 In progress  |
+| [V1 - Transformer](https://github.com/Gaby087/MVLR-V1-Transformer) | Linear regulated PSU 12V 1A with full ripple calculations and design documentation | ✅ V1.0 Ready |
 | V2 - Digital Hybrid | Commercial switching PSU + digital voltage selection | 🔧 In progress |
 | V3 - ATX Recycled | Repurposed PC PSU as lab bench supply | 🔧 In progress |
 
