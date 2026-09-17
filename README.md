@@ -17,7 +17,6 @@ try to write my own projects that way.
 ---
 
 ## 🔬 Interests
-- Analog/Mixed-Signal IC Design
 - Digital Electronics 
 - PCB Design (KiCad, Altium)
 - Semiconductors & Sensors
