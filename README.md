@@ -43,12 +43,11 @@ try to write my own projects that way.
 
 ## 🌱 Currently Learning
 - KiCad & PCB design rules
-- Quantum Mechanics
+- Quantum Computing
 
 ---
 
 ## 🌎 Languages
 - Spanish 🇨🇱 Native
 - English 🇺🇸 Intermediate
-- French 🇫🇷🇧🇪 Basic, learning
-- German 🇩🇪🇨🇭 Planned
+- Planed/Learning: French 🇫🇷🇧🇪 Basic(learning),German 🇩🇪🇨🇭 Planned
